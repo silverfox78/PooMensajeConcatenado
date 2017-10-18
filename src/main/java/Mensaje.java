@@ -1,5 +1,3 @@
-import com.sun.deploy.util.StringUtils;
-
 public class Mensaje {
     private static final String mensajeErrorArgumento = "El texto informado debe ser valido.";
     private final String texto;
