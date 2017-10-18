@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/silverfox78/PooMensajeConcatenado.svg?branch=master)](https://travis-ci.org/silverfox78/PracticaTDD)
+[![Build Status](https://travis-ci.org/silverfox78/PooMensajeConcatenado.svg?branch=master)](https://travis-ci.org/silverfox78/PooMensajeConcatenado)
 
 
 # CIISA - Metodologia de programacion avanzada
