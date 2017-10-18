@@ -6,7 +6,7 @@
 ### **Alumnos :** Carlos Hidalgo y Samuel Barrera
 ---
 
-**Objetivo :** Postear solución correcta al problema ***"Crear el código 100% O.O. para concatenar  un mensaje con otro mensaje en UN NUEVO mensaje"***. 
+**Objetivo :** Postear solución correcta al problema ***"Crear el código 100% O.O. para concatenar  un mensaje con otro mensaje en UN NUEVO mensaje"***
 
 Recuerden como se explico en clases todos son objetos mensajes y el nuevo mensaje (resultado de la concatenación debe ser un nuevo objeto mensaje)".
 
