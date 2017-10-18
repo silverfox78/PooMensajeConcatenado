@@ -1,5 +1,9 @@
+[![Build Status](https://travis-ci.org/silverfox78/PooMensajeConcatenado.svg?branch=master)](https://travis-ci.org/silverfox78/PracticaTDD)
+
+
 # CIISA - Metodologia de programacion avanzada
 ## **Profesor :** Raul Carvajal Sanchez
+### **Alumnos ** Carlos Hidalgo y Samuel Barrera
 ---
 
 **Objetivo :** Postear solución correcta al problema ***"Crear el código 100% O.O. para concatenar  un mensaje con otro mensaje en UN NUEVO mensaje"***. 
