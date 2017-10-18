@@ -3,7 +3,7 @@
 
 # CIISA - Metodologia de programacion avanzada
 ## **Profesor :** Raul Carvajal Sanchez
-### **Alumnos ** Carlos Hidalgo y Samuel Barrera
+### **Alumnos :** Carlos Hidalgo y Samuel Barrera
 ---
 
 **Objetivo :** Postear solución correcta al problema ***"Crear el código 100% O.O. para concatenar  un mensaje con otro mensaje en UN NUEVO mensaje"***. 
